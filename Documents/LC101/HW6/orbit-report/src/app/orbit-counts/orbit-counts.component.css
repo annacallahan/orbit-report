@@ -1,0 +1,18 @@
+h3 {
+    background: #071f38;
+    color: #fff
+}
+.counts {
+  color: #283038;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 12px;
+  max-width: 250px;
+  background: #b8d6e4;
+  padding: 6px;
+}
+
+span {
+    text-align: right;
+}
+
